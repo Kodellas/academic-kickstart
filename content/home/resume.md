@@ -124,4 +124,4 @@ weight = 2
 
 ## References
 
-* Available upon request 
+* Available upon request
